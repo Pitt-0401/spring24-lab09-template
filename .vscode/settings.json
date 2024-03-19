@@ -1,0 +1,13 @@
+/*
+ * Created on 2024-03-18
+ *
+ * Copyright (c) 2024 Nadine von Frankenberg
+ */
+
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
